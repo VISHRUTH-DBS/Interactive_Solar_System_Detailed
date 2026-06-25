@@ -1,6 +1,6 @@
 # 🌌 Interactive Solar System
 
-An immersive and educational web application that allows users to explore the Solar System through interactive visualizations, detailed planetary information, and engaging animations. The project provides a realistic representation of planets, their orbits, and key astronomical facts, making space exploration accessible and enjoyable for students, educators, and astronomy enthusiasts. Interactive solar system projects commonly include realistic planetary visualization, orbital simulations, zoom and rotation controls, and planet-specific information panels. :contentReference[oaicite:0]{index=0}
+An immersive and educational web application that allows users to explore the Solar System through interactive visualizations, detailed planetary information, and engaging animations. The project provides a realistic representation of planets, their orbits, and key astronomical facts, making space exploration accessible and enjoyable for students, educators, and astronomy enthusiasts. Interactive solar system projects commonly include realistic planetary visualization, orbital simulations, zoom and rotation controls, and planet-specific information panels.
 
 ## 🚀 Live Demo
 
