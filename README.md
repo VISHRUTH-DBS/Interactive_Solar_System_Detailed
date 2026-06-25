@@ -20,7 +20,6 @@ The Interactive Solar System is a responsive web application designed to help us
 - 🪐 Detailed information for each planet
 - 🔄 Realistic orbital movement animations
 - 🔍 Zoom, rotate, and explore celestial bodies
-- 📱 Fully responsive design for desktop and mobile devices
 - 🎨 Modern space-themed user interface
 - 📚 Educational content about planets and astronomy
 - ⚡ Smooth and optimized performance
